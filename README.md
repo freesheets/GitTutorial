@@ -60,12 +60,15 @@ Isso cria uma nova chave SSH, usando o e-mail fornecido como rótulo.
 ![image](https://github.com/freesheets/GitTutorial/assets/169274014/9dfb6f5f-9151-4524-b24b-cee57bd5f988)
 
 5 - Abra sua conta no Github, clique no icone do seu perfil e vá em -> Settings
+
 ![image](https://github.com/freesheets/GitTutorial/assets/169274014/0330d636-a8dd-47c8-9e31-7440ef7d69bc)
 
 6 - Depois entrem na opção de SSH and GPG Keys
+
 ![image](https://github.com/freesheets/GitTutorial/assets/169274014/80c9a149-367a-4b02-8867-6b476e92287e)
 
 7 Clique em New SSH Key, coleque um titulo e cole a chave dentro de Key!
+
 ![image](https://github.com/freesheets/GitTutorial/assets/169274014/84c4831e-15c1-4f97-8a42-1acd022a092e)
 
 # Como iniciar um repositorio e subir para o Github?
