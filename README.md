@@ -4,6 +4,7 @@ Pra você que é Dev ou iniciante e não conhece o Git, é fundamental que em se
 
 # Instalando o GIT
 Link com os downloads
+https://git-scm.com/downloads
 
 # Vamos começar falando o que é o Git?
 Primeira resposta o que Git e a mesma coisa que o Github? não são ferramentas distintas, mas colaboram de maneira integrada para tornar o desenvolvimento de software mais eficiente.
@@ -72,6 +73,58 @@ Isso cria uma nova chave SSH, usando o e-mail fornecido como rótulo.
 ![image](https://github.com/freesheets/GitTutorial/assets/169274014/84c4831e-15c1-4f97-8a42-1acd022a092e)
 
 # Como iniciar um repositorio e subir para o Github?
+
+1 - Abra o git bash na pasta no qual deseje subir para o Github!
+
+![image](https://github.com/freesheets/GitTutorial/assets/169274014/1981bc8e-7904-4f61-ad5a-f3cd039cab45)
+
+2 -  Crie um Repositório Git:
+
+Para começar a rastrear seu código, crie um repositório Git em seu projeto. Navegue até a pasta do seu projeto e execute:
+
+![image](https://github.com/freesheets/GitTutorial/assets/169274014/8cde18c3-5821-41d6-9214-dad0c9079cc4)
+
+3 -  Adicione Arquivos ao Controle de Versão:
+
+Use o comando git add para adicionar arquivos ao "staging area", que é onde você prepara os arquivos para serem “commitados” ou salvos.
+
+![image](https://github.com/freesheets/GitTutorial/assets/169274014/2bc52399-7e4e-442b-8014-863375bb8c51)
+
+ou digit git add . para adicionar todos os arquivos
+
+![image](https://github.com/freesheets/GitTutorial/assets/169274014/09f98765-5e5f-483b-bffc-5e062c3f1a6e)
+
+4 - Faça um Commit:
+
+Um commit é seu save point. Use o comando git commit -u "" para criar um commit com uma mensagem descritiva do que foi alterado no projeto.
+
+![image](https://github.com/freesheets/GitTutorial/assets/169274014/5cd0ad0f-4d15-48ae-bb5c-1ab9d2630049)
+
+5 - Comando para visualizar o Histórico de Commits:
+
+Use git log para ver o histórico de commits no repositório.
+
+![image](https://github.com/freesheets/GitTutorial/assets/169274014/e320bb2d-eb83-49f7-bdcd-bbd0a422ceec)
+
+6 - Crie seu repositorio no Github
+
+![image](https://github.com/freesheets/GitTutorial/assets/169274014/c1408dbc-127f-4393-9d74-600b73178c29)
+
+Não adicione o README file para que apareça as opção de ajuda para subir seu repositorio
+
+![image](https://github.com/freesheets/GitTutorial/assets/169274014/0f2a63f9-1a64-4cb6-88fd-1144085677e8)
+
+7 - Feito isso, apenas siga os comandos após o commit para finalizar o processo
+
+![image](https://github.com/freesheets/GitTutorial/assets/169274014/c72cadc0-4381-4ef1-8e96-2d3be1cc85d6)
+
+# Comandos Git
+
+
+
+
+
+
 
 
 
